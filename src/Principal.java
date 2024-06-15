@@ -110,7 +110,6 @@ public class Principal {
 				System.out.println("Opcion no valida");
 				break;
 			}
-
 		}
 	}
 }
